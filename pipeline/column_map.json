@@ -1,0 +1,18 @@
+{
+  "Producto": ["Producto", "Producto ", "PRODUCTO"],
+  "Localizador": [
+    "Localizador",
+    "Localizador.1",
+    "Reserva",
+    "Reserva ",
+    "localizador",
+    "Localizdor",
+    "CONFNO",
+    "No. de itinerario",
+    "BK",
+    "CLAVE",
+    "CLAVE GDS",
+    "No."
+  ],
+  "Importe sin impuestos": ["Importe sin impuestos"]
+}
