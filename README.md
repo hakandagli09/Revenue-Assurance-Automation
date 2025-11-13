@@ -4,16 +4,6 @@ This project delivers an automated revenue-assurance system that reconciles more
 
 ⸻
 
-Business Impact
-	•	Identified ~$720,000 in annual commission discrepancies
-	•	Reduced manual reconciliation time by ~80%
-	•	Improved billing accuracy and audit readiness
-	•	Unified fragmented commission statements from dozens of providers
-	•	Standardized messy ERP data into a consistent, reconcilable format
-	•	Created a single source of truth powering Tableau reporting for leadership
-
-⸻
-
 What This System Does
 	•	Cleans and normalizes ERP sales orders (confirmation numbers, tax logic, provider fields)
 	•	Cleans and aggregates vendor commission files (duplicates, inconsistent formats, missing locators)
