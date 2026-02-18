@@ -1,6 +1,6 @@
 Revenue Assurance Automation for Sevilla Sol Viajes
 
-This project delivers an automated revenue-assurance system that reconciles more than 40,000 annual ERP sales orders with multi-provider commission reports. It replaces a highly manual, error-prone process with a reliable Python-based pipeline that produces clean, audit-ready datasets and a Tableau dashboard for leadership insights.
+This project delivers an automated revenue-assurance system that reconciles more than 160,000 annual ERP sales orders with multi-provider commission reports. It replaces a highly manual, error-prone process with a reliable Python-based pipeline that produces clean, audit-ready datasets and a Tableau dashboard for leadership insights.
 
 ⸻
 
